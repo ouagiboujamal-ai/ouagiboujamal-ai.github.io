@@ -34,7 +34,7 @@
     },
 
     // Update this after publishing. Used by share links, sitemap and canonical URLs.
-    siteUrl: 'https://YOUR-USERNAME.github.io/zakhrafa',
+    siteUrl: 'https://ouagiboujamal-ai.github.io/zakhrafa',
 
     // Public Google OAuth client ID. This is safe to expose in client-side code.
     googleClientId: '295699802302-q6mn9sldoki97gn2bai3sv54jjmiuf95.apps.googleusercontent.com',
