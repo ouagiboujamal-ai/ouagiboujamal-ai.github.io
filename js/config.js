@@ -37,7 +37,7 @@
     siteUrl: 'https://ouagiboujamal-ai.github.io/zakhrafa',
 
     // Public Google OAuth client ID. This is safe to expose in client-side code.
-    googleClientId: '295699802302-q6mn9sldoki97gn2bai3sv54jjmiuf95.apps.googleusercontent.com',
+    googleClientId: '295699802302-9ptvkjmp6ghn2a0plbge7ldv58knublm.apps.googleusercontent.com',
 
     // Replace with your own inbox. Contact is mailto-only — there is no backend.
     contactEmail: 'hello@zakhrafa.app',
